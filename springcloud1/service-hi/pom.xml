@@ -5,12 +5,12 @@
     <modelVersion>4.0.0</modelVersion>
 
     <parent>
-        <groupId>com.cdq</groupId>
+        <groupId>com.zking</groupId>
         <artifactId>springcloud1</artifactId>
         <version>1.0-SNAPSHOT</version>
     </parent>
 
-    <groupId>com.cdq</groupId>
+    <groupId>com.zking</groupId>
     <artifactId>service-hi</artifactId>
     <version>1.0-SNAPSHOT</version>
 
@@ -34,5 +34,6 @@
         </plugins>
     </build>
 
-    
+
+
 </project>
