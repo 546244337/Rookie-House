@@ -1,0 +1,5 @@
+简单写写教程吧
+1.spring cloud1分为两部分,分别是eureka-server和service-hi
+2.eureka-server为创建服务注册中心,在这里，我采用Eureka作为服务注册与发现的组件
+http://localhost:8081
+3.service-hi为服务提供者http://localhost:8082/hello
